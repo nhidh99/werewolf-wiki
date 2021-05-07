@@ -36,6 +36,7 @@ const useStyles = makeStyles((theme) => ({
 export default function CardSearch() {
     const dispatch = useDispatch();
     const classes = useStyles();
+
     return (
         <TextField
             id="search"
