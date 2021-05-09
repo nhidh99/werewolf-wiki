@@ -1,9 +1,7 @@
 import {
 	GiAcousticMegaphone,
 	GiCardPickup,
-
 	GiDiscussion,
-
 	GiMoonBats,
 	GiPodiumWinner,
 	GiPointing,

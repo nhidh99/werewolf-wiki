@@ -1,5 +1,5 @@
-import { createSlice } from "@reduxjs/toolkit";
 import { CARDS } from "../../constants/cards";
+import { createSlice } from "@reduxjs/toolkit";
 
 const CardResultSlice = createSlice({
     name: "CardResult",
